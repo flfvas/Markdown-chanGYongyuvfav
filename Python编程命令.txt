@@ -1,1 +1,1 @@
-﻿环境windows 10, python 3.14, 设计一个程序, 当按下全局按键ctrl+r时, 弹出hello world对话框,持续运行(后续再按下ctrl+r时也可以), 运行时没有控制台窗口, 后台静默运行
+﻿环境windows 10, python 3.14, 设计一个程序,
